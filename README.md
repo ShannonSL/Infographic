@@ -1,1 +1,1 @@
-# Infographic
+# Interactive Art Infographic
