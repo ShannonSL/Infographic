@@ -7,3 +7,4 @@ they're having a hard day at work, school, home; or they just need to see someth
 
 The goal was to make an interactive infographic where every odd number would animate with a heart-beat animation, the title would pulse and every even quote would swing. 
 
+each quote was to sit underneath the respective image that fit the quote.
