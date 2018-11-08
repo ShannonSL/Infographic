@@ -1,0 +1,270 @@
+body { background-color: F8ECC2; }
+
+.details { font-size: 30px; color: blue; text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+
+h1 {
+    font-family: 'Times New Roman, Times, serif';
+    font-size: 70px;
+    color: blue;
+    text-align: center;
+}
+
+#quote1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: left;
+
+}
+  #img1 {
+    max-width:70%;
+    height: 60%;
+    position: relative;
+  }
+ 
+#quote2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+text-align: right;
+}
+
+  #img2 {
+    max-width:80%;
+    height: 60%;
+    float: right;
+  }
+ 
+  #quote3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: left;
+}
+
+#img3 {
+    max-width:80%;
+    height: 60%;
+    float: left;
+  }
+ 
+  #quote4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: right;
+}
+
+  #img4 {
+    max-width:80%;
+    height: 60%;
+    float: right;
+  }
+ 
+  #quote5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: left;
+}
+
+  #img5 {
+    max-width:80%;
+    height: 60%;
+    float: left; 
+ }
+
+ #quote6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: right;
+}
+
+  #img6 {
+    max-width:80%;
+    height: 60%;
+    float: right;
+  }
+
+  #quote7 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: left;
+}
+
+  #img7 {
+    max-width:80%;
+    height: 60%;
+    float: left; 
+ }
+
+ #quote8 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: right;
+}
+
+  #img8 {
+   max-width:80%;
+    height: 60%;
+    float: right;
+  }
+
+  #quote9 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: left;
+}
+
+  #img9 {
+    max-width:80%;
+    height: 60%;
+    float: left;
+  }
+
+  #quote10 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: right;
+}
+
+  #img10 {
+    max-width:80%;
+    height: 60%;
+    float: right;
+  }
+
+  #quote11 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: left;
+}
+
+  #img11 {
+    max-width:80%;
+    height: 60%;
+    float: left;
+  }
+
+  #quote12 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: right;
+}
+
+  #img12 {
+    max-width:80%;
+    height: 60%;
+    float: right;
+  }
+
+  #quote13 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: left;
+}
+
+  #img13 {
+    max-width:80%;
+    height: 60%;
+    float: left;
+  }
+
+  #quote14 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: right;
+}
+
+  #img14 {
+    max-width:80%;
+    height: 60%;
+    float: right;
+  }
+
+  #quote15 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: left;
+}
+
+  #img15{
+    max-width:80%;
+    height: 60%;
+    float: left;
+  }
+
+  #quote16 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: right;
+}
+
+  #img16 {
+    max-width:80%;
+    height: 60%;
+    float: right;
+  }
+
+  #quote17 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: left;
+}
+
+  #img17 {
+    max-width:80%;
+    height: 60%;
+    float: left;
+  }
+
+  #quote18 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: right;
+}
+
+  #img18 {
+    max-width:80%;
+    height: 60%;
+    float: right;
+  }
+
+  #quote19 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: left;
+}
+
+  #img19 {
+    max-width:80%;
+    height: 60%;
+    float: left;
+  }
+
+  #quote20{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: blue;
+    text-align: right;
+}
+
+  #img20 {
+    max-width:80%;
+    height: 60%;
+    float: right;
+  }
